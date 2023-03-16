@@ -1,4 +1,7 @@
 {
+  "name": "qrcode/php",
+  "description": "QRCODEPHP",
+  "license": "MIT",
   "require": {
     "php": "8.2.*"
   }

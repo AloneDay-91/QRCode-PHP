@@ -1,19 +1,19 @@
 <?php return array(
     'root' => array(
-        'name' => '__root__',
+        'name' => 'qrcode/php',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '5a70cedd92c0be492c9ff491a86b841e5d36248d',
+        'reference' => '9b56c955c140e0f427504cc24dd4c1823e0a5c2a',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'dev' => true,
     ),
     'versions' => array(
-        '__root__' => array(
+        'qrcode/php' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '5a70cedd92c0be492c9ff491a86b841e5d36248d',
+            'reference' => '9b56c955c140e0f427504cc24dd4c1823e0a5c2a',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
