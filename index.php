@@ -16,6 +16,7 @@
         </form>
         <?php
         require_once 'phpqrcode/qrlib.php';
+        require "vendor/autoload.php";
         $qr_file = "qrcode.png";
         if (isset($_POST['data'])) {
             $data = $_POST['data'];
